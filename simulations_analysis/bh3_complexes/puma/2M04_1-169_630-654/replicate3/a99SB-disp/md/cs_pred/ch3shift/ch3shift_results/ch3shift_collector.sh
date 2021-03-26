@@ -1,0 +1,38 @@
+#!/bin/bash
+path_traj=../../../../../../../../../../simulations/bh3_complexes/puma/2M04_1-169_630-654/replicate3/a99SB-disp/md/Mol_An/traj_centered.xtc
+path_tpr=../../../../../../../../../../simulations/bh3_complexes/puma/2M04_1-169_630-654/replicate3/a99SB-disp/md/md.tpr
+
+
+
+#creates index file. Removes acetylation at N terminus and NH2 at C-terminus
+echo "a 7-2645 | a 2655-3065\n"|gmx make_ndx -f ${path_tpr}
+
+
+#pipeline: runs ch3dhift for the substractories 0, 25, 50, ..., 1000 ns if desired. 
+for e in 1000; #0 25 50 75 100 125 150 175 200 225 250 275 300 325 350 375 400 425 450 475 500 525 500 575 600 625 650 675 700 725 750 775 800 825 850 875 900 925 950 975 1000; 
+do
+echo "19\n"|gmx trjconv -f ${path_traj} -s ${path_tpr} -b 0 -e ${e}000 -skip 100 -o traj_$e.pdb -n index.ndx #no_capping
+
+
+
+#################################################
+###########          CH3 shift          ######### ---->  ONLY FOR FULL TRAJECTORY, EXECUTION REALLY SLOW.
+#################################################
+
+#modifies command.cmd config file and remove intermediate files
+sed s/TITLE/ch3_${e}/g command_template.cmd > command_1.cmd 
+sed s/INPUTPDB/traj_${e}.pdb/g command_1.cmd > command_2.cmd
+rm command_1.cmd
+sed s/OUTPUTTXT/out_ch3shift_${e}.txt/g command_2.cmd > command.cmd
+rm command_2.cmd
+
+#executes ch3_shift
+echo starting CH3shift calculations ... 
+R CMD BATCH CH3Shift.R 
+rm command.cmd #removes the current cmd files to leave space for the next one
+rm ./traj_${e}.pdb 
+cd ..
+echo Done with CH3shift for t=$e ns ...
+
+
+done

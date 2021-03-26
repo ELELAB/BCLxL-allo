@@ -23,7 +23,12 @@ simulations_analysis -> all the analyses done on free and PUMA-bound simulations
 mutatex -> foldx scans a saturation for free protein or complexes
 
 
-In the paper we also made usage of the code deposited in: https://github.com/ELELAB/delta_cs, to compare experimental and predicted chemical shifts. 
+In the paper we also made usage of the code deposited in: 
+
+https://github.com/ELELAB/delta_cs to compare experimental and predicted chemical shifts. 
+https://github.com/ELELAB/psntools to carry out centrality measurements and other additional PSN analyses
+which complement the ones available in PyInteraph 
+
 
 Please cite our publication if you use the material in this repository
 

@@ -1,0 +1,22 @@
+;
+;	File 'topol.top' was generated
+;	By user: dionisio (1015)
+;	On host: kb-bioinfo01
+;	At date: Fri Sep  4 12:14:08 2020
+
+;
+;	This is a standalone topology file
+;
+;	Created by:
+;	                 :-) GROMACS - gmx pdb2gmx, VERSION 5.1.5 (-:
+;	
+;	Executable:   /usr/local/gromacs-5.1.5/bin/gmx
+;	Data prefix:  /usr/local/gromacs-5.1.5
+;	Command line:
+;	  gmx pdb2gmx -f ../reference.pdb -o reference_renamed.pdb -ff charmm27 -ignh
+;	Force field was read from the standard GROMACS share directory.
+;
+
+; Include forcefield parameters
+#include "charmm27.ff/forcefield.itp"
+

@@ -1,0 +1,9 @@
+#No need of restart since -append in gromacs automatically sets same behaviour as RESTART
+MOLINFO STRUCTURE=reference.pdb MOLTYPE=protein
+
+#Wholemolecules entry (BCL-XL)
+WHOLEMOLECULES ENTITY0=1-2648 # For fixing PBC problems
+
+
+
+
