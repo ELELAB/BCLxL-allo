@@ -1,0 +1,553 @@
+nohup: ignoring input
+Graph loaded! 194 nodes, 158 edges
+Node list:
+	A-1MET
+	A-2SER
+	A-3GLN
+	A-4SER
+	A-5ASN
+	A-6ARG
+	A-7GLU
+	A-8LEU
+	A-9VAL
+	A-10VAL
+	A-11ASP
+	A-12PHE
+	A-13LEU
+	A-14SER
+	A-15TYR
+	A-16LYS
+	A-17LEU
+	A-18SER
+	A-19GLN
+	A-20LYS
+	A-21GLY
+	A-22TYR
+	A-23SER
+	A-24TRP
+	A-25SER
+	A-26GLN
+	A-27PHE
+	A-28SER
+	A-29ASP
+	A-30VAL
+	A-31GLU
+	A-32GLU
+	A-33ASN
+	A-34ARG
+	A-35THR
+	A-36GLU
+	A-37ALA
+	A-38PRO
+	A-39GLU
+	A-40GLY
+	A-41THR
+	A-42GLU
+	A-43SER
+	A-44GLU
+	A-45ALA
+	A-46VAL
+	A-47LYS
+	A-48GLN
+	A-49ALA
+	A-50LEU
+	A-51ARG
+	A-52GLU
+	A-53ALA
+	A-54GLY
+	A-55ASP
+	A-56GLU
+	A-57PHE
+	A-58GLU
+	A-59LEU
+	A-60ARG
+	A-61TYR
+	A-62ARG
+	A-63ARG
+	A-64ALA
+	A-65PHE
+	A-66SER
+	A-67ASP
+	B-68GLU
+	A-68LEU
+	B-69GLU
+	A-69THR
+	A-70SER
+	B-70GLN
+	B-71TRP
+	A-71GLN
+	B-72ALA
+	A-72LEU
+	A-73HIS
+	B-73ARG
+	B-74GLU
+	A-74ILE
+	B-75ILE
+	A-75THR
+	A-76PRO
+	B-76GLY
+	A-77GLY
+	B-77ALA
+	B-78GLN
+	A-78THR
+	A-79ALA
+	B-79LEU
+	A-80TYR
+	B-80ARG
+	A-81GLN
+	B-81ARG
+	A-82SER
+	B-82MET
+	B-83ALA
+	A-83PHE
+	B-84ASP
+	A-84GLU
+	B-85ASP
+	A-85GLN
+	B-86LEU
+	A-86VAL
+	A-87VAL
+	B-87ASN
+	B-88ALA
+	A-88ASN
+	A-89GLU
+	B-89GLN
+	A-90LEU
+	B-90TYR
+	B-91GLU
+	A-91PHE
+	B-92ARG
+	A-92ARG
+	A-93ASP
+	A-94GLY
+	A-95VAL
+	A-96ASN
+	A-97TRP
+	A-98GLY
+	A-99ARG
+	A-100ILE
+	A-101VAL
+	A-102ALA
+	A-103PHE
+	A-104PHE
+	A-105SER
+	A-106PHE
+	A-107GLY
+	A-108GLY
+	A-109ALA
+	A-110LEU
+	A-111CYS
+	A-112VAL
+	A-113GLU
+	A-114SER
+	A-115VAL
+	A-116ASP
+	A-117LYS
+	A-118GLU
+	A-119MET
+	A-120GLN
+	A-121VAL
+	A-122LEU
+	A-123VAL
+	A-124SER
+	A-125ARG
+	A-126ILE
+	A-127ALA
+	A-128ALA
+	A-129TRP
+	A-130MET
+	A-131ALA
+	A-132THR
+	A-133TYR
+	A-134LEU
+	A-135ASN
+	A-136ASP
+	A-137HIS
+	A-138LEU
+	A-139GLU
+	A-140PRO
+	A-141TRP
+	A-142ILE
+	A-143GLN
+	A-144GLU
+	A-145ASN
+	A-146GLY
+	A-147GLY
+	A-148TRP
+	A-149ASP
+	A-150THR
+	A-151PHE
+	A-152VAL
+	A-153GLU
+	A-154LEU
+	A-155TYR
+	A-156GLY
+	A-157ASN
+	A-158ASN
+	A-159ALA
+	A-160ALA
+	A-161ALA
+	A-162GLU
+	A-163SER
+	A-164ARG
+	A-165LYS
+	A-166GLY
+	A-167GLN
+	A-168GLU
+	A-169ARG
+Hubs:
+	Node	k
+	B-72ALA	5
+	A-159ALA	5
+	A-154LEU	5
+	A-79ALA	4
+	A-114SER	4
+	A-89GLU	4
+	A-102ALA	4
+	A-5ASN	4
+	A-85GLN	4
+	B-80ARG	4
+	A-64ALA	4
+	A-99ARG	4
+	B-83ALA	3
+	A-63ARG	3
+	A-12PHE	3
+	B-73ARG	3
+	B-87ASN	3
+	A-169ARG	3
+	A-162GLU	3
+	B-82MET	3
+	A-135ASN	3
+	A-26GLN	3
+	A-47LYS	3
+	B-71TRP	3
+	B-91GLU	3
+	A-96ASN	3
+	A-133TYR	3
+	A-110LEU	3
+	A-142ILE	3
+	A-90LEU	3
+	A-72LEU	3
+	B-75ILE	3
+	B-78GLN	3
+	A-9VAL	3
+	A-97TRP	3
+	A-28SER	3
+	B-79LEU	3
+	A-111CYS	3
+	A-106PHE	3
+	A-57PHE	3
+	A-95VAL	3
+	A-51ARG	3
+	A-119MET	3
+	A-82SER	3
+	A-127ALA	3
+	A-123VAL	3
+Graph loaded! 194 nodes, 158 edges
+Node list:
+	A-1MET
+	A-2SER
+	A-3GLN
+	A-4SER
+	A-5ASN
+	A-6ARG
+	A-7GLU
+	A-8LEU
+	A-9VAL
+	A-10VAL
+	A-11ASP
+	A-12PHE
+	A-13LEU
+	A-14SER
+	A-15TYR
+	A-16LYS
+	A-17LEU
+	A-18SER
+	A-19GLN
+	A-20LYS
+	A-21GLY
+	A-22TYR
+	A-23SER
+	A-24TRP
+	A-25SER
+	A-26GLN
+	A-27PHE
+	A-28SER
+	A-29ASP
+	A-30VAL
+	A-31GLU
+	A-32GLU
+	A-33ASN
+	A-34ARG
+	A-35THR
+	A-36GLU
+	A-37ALA
+	A-38PRO
+	A-39GLU
+	A-40GLY
+	A-41THR
+	A-42GLU
+	A-43SER
+	A-44GLU
+	A-45ALA
+	A-46VAL
+	A-47LYS
+	A-48GLN
+	A-49ALA
+	A-50LEU
+	A-51ARG
+	A-52GLU
+	A-53ALA
+	A-54GLY
+	A-55ASP
+	A-56GLU
+	A-57PHE
+	A-58GLU
+	A-59LEU
+	A-60ARG
+	A-61TYR
+	A-62ARG
+	A-63ARG
+	A-64ALA
+	A-65PHE
+	A-66SER
+	A-67ASP
+	B-68GLU
+	A-68LEU
+	B-69GLU
+	A-69THR
+	A-70SER
+	B-70GLN
+	B-71TRP
+	A-71GLN
+	B-72ALA
+	A-72LEU
+	A-73HIS
+	B-73ARG
+	B-74GLU
+	A-74ILE
+	B-75ILE
+	A-75THR
+	A-76PRO
+	B-76GLY
+	A-77GLY
+	B-77ALA
+	B-78GLN
+	A-78THR
+	A-79ALA
+	B-79LEU
+	A-80TYR
+	B-80ARG
+	A-81GLN
+	B-81ARG
+	A-82SER
+	B-82MET
+	B-83ALA
+	A-83PHE
+	B-84ASP
+	A-84GLU
+	B-85ASP
+	A-85GLN
+	B-86LEU
+	A-86VAL
+	A-87VAL
+	B-87ASN
+	B-88ALA
+	A-88ASN
+	A-89GLU
+	B-89GLN
+	A-90LEU
+	B-90TYR
+	B-91GLU
+	A-91PHE
+	B-92ARG
+	A-92ARG
+	A-93ASP
+	A-94GLY
+	A-95VAL
+	A-96ASN
+	A-97TRP
+	A-98GLY
+	A-99ARG
+	A-100ILE
+	A-101VAL
+	A-102ALA
+	A-103PHE
+	A-104PHE
+	A-105SER
+	A-106PHE
+	A-107GLY
+	A-108GLY
+	A-109ALA
+	A-110LEU
+	A-111CYS
+	A-112VAL
+	A-113GLU
+	A-114SER
+	A-115VAL
+	A-116ASP
+	A-117LYS
+	A-118GLU
+	A-119MET
+	A-120GLN
+	A-121VAL
+	A-122LEU
+	A-123VAL
+	A-124SER
+	A-125ARG
+	A-126ILE
+	A-127ALA
+	A-128ALA
+	A-129TRP
+	A-130MET
+	A-131ALA
+	A-132THR
+	A-133TYR
+	A-134LEU
+	A-135ASN
+	A-136ASP
+	A-137HIS
+	A-138LEU
+	A-139GLU
+	A-140PRO
+	A-141TRP
+	A-142ILE
+	A-143GLN
+	A-144GLU
+	A-145ASN
+	A-146GLY
+	A-147GLY
+	A-148TRP
+	A-149ASP
+	A-150THR
+	A-151PHE
+	A-152VAL
+	A-153GLU
+	A-154LEU
+	A-155TYR
+	A-156GLY
+	A-157ASN
+	A-158ASN
+	A-159ALA
+	A-160ALA
+	A-161ALA
+	A-162GLU
+	A-163SER
+	A-164ARG
+	A-165LYS
+	A-166GLY
+	A-167GLN
+	A-168GLU
+	A-169ARG
+Connected component 1:
+	 (95 elements) A-6ARG, A-9VAL, A-13LEU, A-22TYR, A-24TRP, A-28SER, A-29ASP, A-30VAL, A-49ALA, A-53ALA, A-57PHE, A-58GLU, A-59LEU, A-62ARG, A-63ARG, A-64ALA, A-66SER, A-68LEU, A-69THR, B-70GLN, B-71TRP, A-71GLN, B-72ALA, A-72LEU, B-73ARG, A-74ILE, B-75ILE, B-77ALA, B-78GLN, A-79ALA, B-79LEU, A-80TYR, B-80ARG, B-81ARG, A-82SER, B-82MET, B-83ALA, B-84ASP, B-85ASP, A-85GLN, B-86LEU, A-86VAL, B-87ASN, A-87VAL, B-88ALA, A-89GLU, B-89GLN, B-90TYR, A-90LEU, A-91PHE, B-91GLU, B-92ARG, A-92ARG, A-93ASP, A-96ASN, A-97TRP, A-99ARG, A-101VAL, A-102ALA, A-103PHE, A-105SER, A-106PHE, A-109ALA, A-110LEU, A-111CYS, A-113GLU, A-114SER, A-115VAL, A-119MET, A-123VAL, A-124SER, A-126ILE, A-127ALA, A-128ALA, A-129TRP, A-130MET, A-131ALA, A-133TYR, A-137HIS, A-138LEU, A-150THR, A-151PHE, A-153GLU, A-154LEU, A-158ASN, A-159ALA, A-160ALA, A-161ALA, A-162GLU, A-163SER, A-164ARG, A-165LYS, A-167GLN, A-168GLU, A-169ARG
+Connected component 2:
+	 (1 elements) A-146GLY
+Connected component 3:
+	 (1 elements) A-25SER
+Connected component 4:
+	 (11 elements) A-2SER, A-5ASN, A-95VAL, A-100ILE, A-134LEU, A-135ASN, A-139GLU, A-141TRP, A-142ILE, A-145ASN, A-148TRP
+Connected component 5:
+	 (15 elements) A-7GLU, A-11ASP, A-12PHE, A-15TYR, A-16LYS, A-19GLN, A-44GLU, A-45ALA, A-47LYS, A-48GLN, A-50LEU, A-51ARG, A-104PHE, A-152VAL, A-155TYR
+Connected component 6:
+	 (1 elements) A-42GLU
+Connected component 7:
+	 (1 elements) B-68GLU
+Connected component 8:
+	 (4 elements) A-55ASP, A-56GLU, A-60ARG, A-61TYR
+Connected component 9:
+	 (1 elements) A-132THR
+Connected component 10:
+	 (4 elements) A-118GLU, A-120GLN, A-121VAL, A-125ARG
+Connected component 11:
+	 (1 elements) A-140PRO
+Connected component 12:
+	 (1 elements) A-166GLY
+Connected component 13:
+	 (2 elements) A-20LYS, A-112VAL
+Connected component 14:
+	 (2 elements) A-116ASP, A-117LYS
+Connected component 15:
+	 (1 elements) A-149ASP
+Connected component 16:
+	 (1 elements) A-143GLN
+Connected component 17:
+	 (1 elements) A-144GLU
+Connected component 18:
+	 (1 elements) A-157ASN
+Connected component 19:
+	 (1 elements) B-74GLU
+Connected component 20:
+	 (3 elements) A-75THR, A-76PRO, A-78THR
+Connected component 21:
+	 (1 elements) A-36GLU
+Connected component 22:
+	 (1 elements) A-39GLU
+Connected component 23:
+	 (1 elements) A-54GLY
+Connected component 24:
+	 (1 elements) A-83PHE
+Connected component 25:
+	 (1 elements) B-76GLY
+Connected component 26:
+	 (2 elements) A-67ASP, A-70SER
+Connected component 27:
+	 (1 elements) A-21GLY
+Connected component 28:
+	 (3 elements) A-37ALA, A-38PRO, A-41THR
+Connected component 29:
+	 (3 elements) A-1MET, A-4SER, A-43SER
+Connected component 30:
+	 (1 elements) A-8LEU
+Connected component 31:
+	 (1 elements) A-94GLY
+Connected component 32:
+	 (1 elements) A-77GLY
+Connected component 33:
+	 (1 elements) A-52GLU
+Connected component 34:
+	 (1 elements) A-136ASP
+Connected component 35:
+	 (3 elements) A-3GLN, A-32GLU, A-34ARG
+Connected component 36:
+	 (1 elements) A-65PHE
+Connected component 37:
+	 (1 elements) A-31GLU
+Connected component 38:
+	 (1 elements) A-73HIS
+Connected component 39:
+	 (1 elements) A-81GLN
+Connected component 40:
+	 (1 elements) A-10VAL
+Connected component 41:
+	 (1 elements) A-35THR
+Connected component 42:
+	 (1 elements) A-107GLY
+Connected component 43:
+	 (1 elements) A-84GLU
+Connected component 44:
+	 (1 elements) B-69GLU
+Connected component 45:
+	 (4 elements) A-14SER, A-23SER, A-26GLN, A-27PHE
+Connected component 46:
+	 (1 elements) A-33ASN
+Connected component 47:
+	 (1 elements) A-108GLY
+Connected component 48:
+	 (1 elements) A-156GLY
+Connected component 49:
+	 (1 elements) A-40GLY
+Connected component 50:
+	 (1 elements) A-88ASN
+Connected component 51:
+	 (1 elements) A-98GLY
+Connected component 52:
+	 (1 elements) A-18SER
+Connected component 53:
+	 (1 elements) A-122LEU
+Connected component 54:
+	 (1 elements) A-46VAL
+Connected component 55:
+	 (1 elements) A-17LEU
+Connected component 56:
+	 (1 elements) A-147GLY

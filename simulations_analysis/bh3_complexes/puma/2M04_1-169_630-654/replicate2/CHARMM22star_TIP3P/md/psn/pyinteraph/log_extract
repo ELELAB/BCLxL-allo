@@ -1,0 +1,63 @@
+nohup: ignoring input
+                  :-) GROMACS - gmx trjconv, VERSION 5.1.5 (-:
+
+                            GROMACS is written by:
+     Emile Apol      Rossen Apostolov  Herman J.C. Berendsen    Par Bjelkmar   
+ Aldert van Buuren   Rudi van Drunen     Anton Feenstra   Sebastian Fritsch 
+  Gerrit Groenhof   Christoph Junghans   Anca Hamuraru    Vincent Hindriksen
+ Dimitrios Karkoulis    Peter Kasson        Jiri Kraus      Carsten Kutzner  
+    Per Larsson      Justin A. Lemkul   Magnus Lundborg   Pieter Meulenhoff 
+   Erik Marklund      Teemu Murtola       Szilard Pall       Sander Pronk   
+   Roland Schulz     Alexey Shvetsov     Michael Shirts     Alfons Sijbers  
+   Peter Tieleman    Teemu Virolainen  Christian Wennberg    Maarten Wolf   
+                           and the project leaders:
+        Mark Abraham, Berk Hess, Erik Lindahl, and David van der Spoel
+
+Copyright (c) 1991-2000, University of Groningen, The Netherlands.
+Copyright (c) 2001-2015, The GROMACS development team at
+Uppsala University, Stockholm University and
+the Royal Institute of Technology, Sweden.
+check out http://www.gromacs.org for more information.
+
+GROMACS is free software; you can redistribute it and/or modify it
+under the terms of the GNU Lesser General Public License
+as published by the Free Software Foundation; either version 2.1
+of the License, or (at your option) any later version.
+
+GROMACS:      gmx trjconv, VERSION 5.1.5
+Executable:   /usr/local/gromacs-5.1.5/bin/gmx
+Data prefix:  /usr/local/gromacs-5.1.5
+Command line:
+  gmx trjconv -f ../../../new_complexes_capped_small_box/bclxl-puma/9-md/Mol_An/traj_centered.xtc -s ../../../new_complexes_capped_small_box/bclxl-puma/9-md/md.tpr -o model0.pdb -b 0 -e 1
+
+Will write pdb: Protein data bank file
+Reading file ../../../new_complexes_capped_small_box/bclxl-puma/9-md/md.tpr, VERSION 4.6.5 (single precision)
+Reading file ../../../new_complexes_capped_small_box/bclxl-puma/9-md/md.tpr, VERSION 4.6.5 (single precision)
+Group     0 (         System) has 98267 elements
+Group     1 (        Protein) has  3058 elements
+Group     2 (      Protein-H) has  1577 elements
+Group     3 (        C-alpha) has   194 elements
+Group     4 (       Backbone) has   582 elements
+Group     5 (      MainChain) has   776 elements
+Group     6 (   MainChain+Cb) has   957 elements
+Group     7 (    MainChain+H) has   965 elements
+Group     8 (      SideChain) has  2093 elements
+Group     9 (    SideChain-H) has   801 elements
+Group    10 (    Prot-Masses) has  3058 elements
+Group    11 (    non-Protein) has 95209 elements
+Group    12 (          Water) has 95016 elements
+Group    13 (            SOL) has 95016 elements
+Group    14 (      non-Water) has  3251 elements
+Group    15 (            Ion) has   193 elements
+Group    16 (             NA) has   103 elements
+Group    17 (             CL) has    90 elements
+Group    18 ( Water_and_ions) has 95209 elements
+Select a group: Reading frame       0 time    0.000   
+Precision of ../../../new_complexes_capped_small_box/bclxl-puma/9-md/Mol_An/traj_centered.xtc is 0.0002 (nm)
+ ->  frame      0 time    0.000      Last frame          0 time    0.000   
+
+
+gcq#0: "If You Want Something Done You Have to Do It Yourself" (Highlander II)
+
+Select group for output
+Selected 1: 'Protein'
