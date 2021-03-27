@@ -10,7 +10,7 @@ a early pre-print version in biorxiv: doi: https://doi.org/10.1101/574699
 
 contacts for repository:elenap-at-cancer.dk
 
-The repository contains the input data for modeling and simulations, outputs from analyses and associated scripts to reproduce our data. The the MD trajectories, mutational scans have been deposited in OSF due to space limitation. They can be downloaded from here:
+The repository contains the input data for modeling and simulations, outputs from analyses and associated scripts to reproduce our data. The the MD trajectories have been deposited in OSF due to space limitation. They can be downloaded from here:
 
 https://osf.io/rnc6d/
 
@@ -18,7 +18,6 @@ In simulations_analysis folders with filtered tpr or xtc files do not contain th
 
 A more detailed README file is in each subfolder
 
-pdbs/ -> preprocessing and cleaning steps for the PDB files
 simulations_analysis -> all the analyses done on free and PUMA-bound simulations
 mutatex -> foldx scans a saturation for free protein or complexes
 
@@ -32,7 +31,7 @@ which complement the ones available in PyInteraph
 
 Please cite our publication if you use the material in this repository
 
-Software versions: gromacs , foldx-suite
+Software versions: gromacs version 4 and 5, foldx-suite4, pyinteraph1
 
 
 
