@@ -5,8 +5,8 @@ Cancer Systems Biology, Health and Technology Department, Section for Bioinforma
 
 Repository associated to the publication:
 
-Bcl-xL dynamics under the lens of protein structure networks. Valentina Sora, Dionisio Sanchez, Elena Papaleo*,J Phys Chem B, under revision
-a early pre-print version in biorxiv: doi: https://doi.org/10.1101/574699
+Bcl-xL dynamics under the lens of protein structure networks. Valentina Sora, Dionisio Sanchez, Elena Papaleo*, J Phys Chem B
+. 2021 May 6;125(17):4308-4320. doi: 10.1021/acs.jpcb.0c11562. Epub 2021 Apr 13.
 
 contacts for repository:elenap-at-cancer.dk
 
